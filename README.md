@@ -23,7 +23,7 @@ Create and manipulate Pandas DataFrames to analyze school and standardized test 
 Jupyter Notebook, Python
 
 ## Usage
-Open file using Jupyter Notebook or equivilant to access data and analysis of the data. Correct file is called PyCitySchools_starter(main).
+Open file using Jupyter Notebook or equivilant to access data and analysis of the data. Correct file is located under file name Starter_Code and is called PyCitySchools_starter(main).
 
 
 ## Credits
