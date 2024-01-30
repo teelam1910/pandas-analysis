@@ -3,6 +3,11 @@
 ## Description
 Create and manipulate Pandas DataFrames to analyze school and standardized test data
 
+## Mockup
+
+![PyCity Mockup- code](https://github.com/teelam1910/pandas-analysis/assets/132629216/d30c7dab-32ed-4767-9caf-360ab445be1d)
+![PyCity Mockup- analysis](https://github.com/teelam1910/pandas-analysis/assets/132629216/4ead160a-efe6-4c60-ba78-91f2b159fc18)
+
 
 ## Table of Contents
 
